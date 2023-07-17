@@ -1,2 +1,3 @@
 helo
-how are you 
+how do you do?
+yes i am good
